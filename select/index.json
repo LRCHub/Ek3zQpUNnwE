@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "鏡花水月",
+  "base_artist": "Siz:(",
+  "createdAt": "2025-12-01T08:15:00.790162Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "鏡花水月",
+      "artist": "ヲタみん",
+      "has_synced": true,
+      "path": "select/01_鏡花水月_ヲタみん.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "鏡花水月",
+      "artist": "梅艷芳",
+      "has_synced": true,
+      "path": "select/02_鏡花水月_梅艷芳.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "鏡花水月",
+      "artist": "そらいろまふらー",
+      "has_synced": false,
+      "path": "select/03_鏡花水月_そらいろまふらー.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "鏡花水月 feat.舞花",
+      "artist": "miCKun",
+      "has_synced": false,
+      "path": "select/pl_01_鏡花水月_feat.舞花_miCKun.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "鏡花水月",
+      "artist": "miCKun",
+      "has_synced": false,
+      "path": "select/pl_02_鏡花水月_miCKun.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "鏡花水月",
+      "artist": "miCKun",
+      "has_synced": false,
+      "path": "select/pl_03_鏡花水月_miCKun.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "鏡花水月",
+      "artist": "miCKun",
+      "has_synced": false,
+      "path": "select/pl_04_鏡花水月_miCKun.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "鏡花水月",
+      "artist": "miCKun",
+      "has_synced": false,
+      "path": "select/pl_05_鏡花水月_miCKun.txt"
+    }
+  ]
+}
